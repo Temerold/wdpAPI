@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://<user>:<password>@<host>/<dbname>?retryWrites=true&w=majority",
+    "secret": "JWT SECRET",
+    "emailFrom": "no-reply@domain.org",
+    "smtpOptions": {
+        "host": "smtp.domain.org",
+        "port": 465,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
